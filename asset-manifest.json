@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/traveler/static/css/main.2fc83fbe.css",
+    "main.js": "/traveler/static/js/main.21392c89.js",
+    "static/media/img-6.jpg": "/traveler/static/media/img-6.047226b0f6080d5b242c.jpg",
+    "static/media/img-1.jpg": "/traveler/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/traveler/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/traveler/index.html",
+    "main.2fc83fbe.css.map": "/traveler/static/css/main.2fc83fbe.css.map",
+    "main.21392c89.js.map": "/traveler/static/js/main.21392c89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fc83fbe.css",
+    "static/js/main.21392c89.js"
+  ]
+}
