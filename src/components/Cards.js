@@ -4,7 +4,7 @@ import "./Cards.css";
 
 const DUMMY_DATA_1 = [
     {
-        src: "images/img-9.jpg",
+        src: "/public/images/img-9.jpg",
         label: "Adventure",
         text: "Find out what a nature we have in Amazon",
         path: "/services"
