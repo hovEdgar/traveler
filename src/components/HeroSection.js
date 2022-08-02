@@ -1,11 +1,12 @@
 import Button from "./Button";
+import videoMove from "../images/video-1.mp4"
 
 import "./HeroSection.css";
 
 const HeroSection = () => {
     return (
         <div className="hero-container">
-            <video src="/videos/video-1.mp4" autoPlay loop muted/>
+            <video src={videoMove} autoPlay loop muted/>
             <h1>BIG JOURNEY GET STARTED</h1>
             <p>What are you waiting for?</p>
             <div className="hero-btns">
